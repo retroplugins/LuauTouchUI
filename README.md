@@ -12,7 +12,7 @@ Most Luau UI frameworks prioritize desktop mouse/keyboard inputs, causing frame-
 ## Installation
 Drop the `src/` folder into `ReplicatedStorage` or install via Wally (`wally.toml`):
 
-`LuauTouchUI = "yourusername/luautouchui@0.1.0"`
+`LuauTouchUI = "retroplugins/luautouchui@0.1.0"`
 
 ## Roadmap
 - [ ] Inertial scroll physics with configurable decay
